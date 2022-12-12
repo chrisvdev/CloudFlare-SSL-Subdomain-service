@@ -1,11 +1,12 @@
 {
-  "name": "own-server",
+  "name": "cf_ssl_sub-dom_service",
   "version": "1.0.0",
   "description": "",
   "main": "own-server.js",
   "scripts": {
     "start": "node own-server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,8 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
   }
 }
