@@ -4,11 +4,11 @@ This is the (on my lack of imagination to give it a good name) the "**CloudFlare
 
 
 ## Is it a free way to have your own server?
-It cost a DNS domain that cost around 9 U$D peer year, an old low-power PC or, like Jeff G. do, a raspberry (or a bunch if you are Jeff) that came "ON" on its own in the event of a electric power loss, (on PCs the option should be in de BIOS), an Internet connection with the possibility of do a port forwarding of de HTTPS standard port (443) or disable the NAT (Network Address Translation protocol) to have your own router to do the port forwarding, and the electric power to power it.
+It cost a DNS domain that cost around 9 U$D peer year, an old low-power PC or, like Jeff G. do, a raspberry (or a bunch if you are Jeff) that came "ON" on its own in the event of a electric power loss, (on PCs the option should be in de BIOS), an Internet connection with the possibility of do a port-forwarding of the HTTPS standard port (443) or disable the NAT (Network Address Translation protocol) to have your own router to do the port-forwarding, and the electric power to power it.
 
-*(To be focused on this project I'm not going deeper about how configure your BIOS or do a Port Forwarding or anything else because Google is full of videos or documentation to learn how to do it and is a world of variants on every case, but i have the confidence to tell you that if you understand this project, you could find and understand the rest)*
+*(To be focused on this project I'm not going deeper about how configure your BIOS or do a Port-Forwarding or anything else because Google is full of videos or documentation to learn how to do it and is a world of variants on every case, but i have the confidence to tell you that if you understand this project, you could find and understand the rest)*
 
-No, it's not free! but may be a low-cost way, if want to learn deeper about what is behind a deploy of a web, app, a server, etc. with the possibility of literally broke everything but learn about it and have a more powerful and extensive playground to have working your, landing page, portfolio projects, or may be your apps 's demos for your future or current clients.
+No, it's not free! but may be a low-cost way, if want to learn deeper about what is behind a deploy of a web, app, a server, etc. with the possibility of literally broke everything but learn about it and have a more powerful and extensive playground to have working your landing page, portfolio projects, or may be your apps 's demos for your future or current clients.
 
 ## What we want to resolve?
 
