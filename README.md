@@ -42,8 +42,8 @@ L <-- HTTPS --> N{CSSS}
 N <-- HTTP --> M{{App 1}}
 N <-- HTTP --> O{{App 2}}
 N <-- HTTP --> P{{API 1}}
-N <-- S.O. FS --> Q{{Static 1}}
-N <-- S.O. FS --> R{{Static 2}}
+N <-- O.S. FS --> Q{{Static 1}}
+N <-- O.S. FS --> R{{Static 2}}
 ```
 
 *(Working on the readme, sorry 🙇🏻‍♂️ 
