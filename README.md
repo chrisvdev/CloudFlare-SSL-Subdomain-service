@@ -38,7 +38,7 @@ D <--> L
 G <--> L
 I <--> L
 K <--> L
-L <-- HTTPS --> N{Own proxy server}
+L <-- HTTPS --> N{CSSS}
 N <-- HTTP --> M{{App 1}}
 N <-- HTTP --> O{{App 2}}
 N <-- HTTP --> P{{API 1}}
