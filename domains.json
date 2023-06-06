@@ -1,17 +1,32 @@
 [
-    {
-        "name" : "christianvillegas.com",
-        "to" : "local:./web/",
-        "comment": "Landing Page"
-    },
-    {
-        "name" : "tecnomerch.christianvillegas.com",
-        "to" : "local:./web/",
-        "comment": "E-Commerce app demo"
-    },
-    {
-        "name" : "gamecatalog.christianvillegas.com",
-        "to" : "local:./web/",
-        "comment": "Full-Stack app demo"
-    }
+  {
+    "name": "christianvillegas.com",
+    "to": "local:./web/",
+    "comment": "Landing Page"
+  },
+  {
+    "name": "tecnomerch.christianvillegas.com",
+    "to": "local:./web/",
+    "comment": "E-Commerce app demo"
+  },
+  {
+    "name": "tecnomerch.christianvillegas.com",
+    "to": "local:./web/",
+    "comment": "E-Commerce app demo"
+  },
+  {
+    "name": "jp__is.christianvillegas.com",
+    "to": "local:./web/",
+    "comment": "E-Commerce app demo"
+  },
+  {
+    "name": "jp__is.christianvillegas.com",
+    "to": "local:./web/",
+    "comment": "E-Commerce app demo"
+  },
+  {
+    "name": "gamecatalog.christianvillegas.com",
+    "to": "local:./web/",
+    "comment": "Full-Stack app demo"
+  }
 ]

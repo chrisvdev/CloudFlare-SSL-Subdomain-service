@@ -1,0 +1,8 @@
+ls:
+  .js: snake_case
+
+ignore:
+  - .git
+  - node_modules
+  - .vscode
+  - old
